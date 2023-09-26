@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tema2Test/static/css/main.034f0d97.css",
+    "main.js": "/tema2Test/static/js/main.39915210.js",
+    "index.html": "/tema2Test/index.html",
+    "main.034f0d97.css.map": "/tema2Test/static/css/main.034f0d97.css.map",
+    "main.39915210.js.map": "/tema2Test/static/js/main.39915210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034f0d97.css",
+    "static/js/main.39915210.js"
+  ]
+}
